@@ -1,0 +1,16 @@
+Scenario - MEG
+Logfile written - 10/05/2021 20:30:09
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Picture	start_experiment	160963	0	1	5171	1	0	5000	other	0
+2	Picture	white1_pain_false	201499	19590	1	5171	1	19590	5000	other	0
+3	Picture	latin1_pain_false	220181	12740	1	5171	1	12740	5000	other	0
+4	Picture	white1_pain_false	245370	19190	1	5171	1	19190	5000	other	0
+5	Picture	black1_pain_true	267055	15630	1	5171	1	15630	5000	other	0
+6	Picture	white1_pain_false	292411	19410	1	5171	1	19410	5000	other	0
+7	Picture	black1_pain_false	310259	11850	1	5171	1	11850	5000	other	0
+8	Picture	white1_pain_false	329109	12910	1	5171	1	12910	5000	other	0
+9	Picture	black1_pain_false	349960	14790	1	5171	1	14790	5000	other	0
+10	Picture	asian1_pain_false	373814	17890	1	5341	1	17890	5000	other	0
+10	Quit		375031	19107	NA

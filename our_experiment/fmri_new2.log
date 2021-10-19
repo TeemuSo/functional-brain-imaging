@@ -1,0 +1,11 @@
+Scenario - fMRI
+Logfile written - 10/05/2021 19:21:26
+
+Pulse	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Pulse	30	0	0	NA
+2	Pulse	30	20000	20000	NA
+3	Pulse	30	40000	40000	NA
+4	Pulse	30	60000	60000	NA
+4	Picture	start_experiment	75056	75056	1	6683	1	0	5000	other	0
+4	Quit		77545	77545	NA

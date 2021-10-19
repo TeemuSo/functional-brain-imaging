@@ -1,0 +1,218 @@
+Starting session: 1. Time: 1000
+Using delta_time: 1975ms
+Chosen ethnicity is white. Pain: true
+Entered create_stimulus_block. Time: 15034
+Loading bitmap: white female pain: true
+folder index: 6
+Entered initialize_stimulus_block. Time: 15126
+Presenting stimulus. Time: 15126
+Presentation done. Time: 17633
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1470ms
+Chosen ethnicity is white. Pain: false
+Entered create_stimulus_block. Time: 17633
+Loading bitmap: latin female pain: false
+folder index: 8
+Entered initialize_stimulus_block. Time: 17724
+Presenting stimulus. Time: 17724
+Presentation done. Time: 19733
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1024ms
+Chosen ethnicity is asian. Pain: false
+Entered create_stimulus_block. Time: 19733
+Loading bitmap: white female pain: false
+folder index: 12
+Entered initialize_stimulus_block. Time: 19819
+Presenting stimulus. Time: 19819
+Presentation done. Time: 21366
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1663ms
+Chosen ethnicity is white. Pain: true
+Entered create_stimulus_block. Time: 21366
+Loading bitmap: white female pain: true
+folder index: 9
+Entered initialize_stimulus_block. Time: 21451
+Presenting stimulus. Time: 21451
+Presentation done. Time: 23649
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1398ms
+Chosen ethnicity is white. Pain: false
+Entered create_stimulus_block. Time: 23649
+Loading bitmap: white male pain: false
+folder index: 26
+Entered initialize_stimulus_block. Time: 23735
+Presenting stimulus. Time: 23735
+Presentation done. Time: 25666
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1078ms
+Chosen ethnicity is asian. Pain: false
+Entered create_stimulus_block. Time: 25666
+Loading bitmap: white male pain: false
+folder index: 25
+Entered initialize_stimulus_block. Time: 25752
+Presenting stimulus. Time: 25752
+Presentation done. Time: 27366
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1548ms
+Chosen ethnicity is black. Pain: false
+Entered create_stimulus_block. Time: 27366
+Loading bitmap: black male pain: false
+folder index: 20
+Entered initialize_stimulus_block. Time: 27453
+Presenting stimulus. Time: 27453
+Presentation done. Time: 29533
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1145ms
+Chosen ethnicity is latin. Pain: true
+Entered create_stimulus_block. Time: 29533
+Loading bitmap: white female pain: true
+folder index: 13
+Entered initialize_stimulus_block. Time: 29620
+Presenting stimulus. Time: 29620
+Presentation done. Time: 31299
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1595ms
+Chosen ethnicity is white. Pain: false
+Entered create_stimulus_block. Time: 31299
+Loading bitmap: white female pain: false
+folder index: 1
+Entered initialize_stimulus_block. Time: 31389
+Presenting stimulus. Time: 31389
+Presentation done. Time: 33516
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1386ms
+Chosen ethnicity is black. Pain: true
+Entered create_stimulus_block. Time: 33516
+Loading bitmap: white male pain: true
+folder index: 26
+Entered initialize_stimulus_block. Time: 33605
+Presenting stimulus. Time: 33605
+Presentation done. Time: 35516
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1137ms
+Chosen ethnicity is black. Pain: false
+Entered create_stimulus_block. Time: 35516
+Loading bitmap: asian male pain: false
+folder index: 13
+Entered initialize_stimulus_block. Time: 35602
+Presenting stimulus. Time: 35602
+Presentation done. Time: 37266
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1227ms
+Chosen ethnicity is black. Pain: false
+Entered create_stimulus_block. Time: 37266
+Loading bitmap: asian male pain: false
+folder index: 7
+Entered initialize_stimulus_block. Time: 37355
+Presenting stimulus. Time: 37355
+Presentation done. Time: 39116
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1219ms
+Chosen ethnicity is white. Pain: true
+Entered create_stimulus_block. Time: 39116
+Loading bitmap: white male pain: true
+folder index: 32
+Entered initialize_stimulus_block. Time: 39200
+Presenting stimulus. Time: 39200
+Presentation done. Time: 40949
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1689ms
+Chosen ethnicity is white. Pain: true
+Entered create_stimulus_block. Time: 40949
+Loading bitmap: white male pain: true
+folder index: 62
+Entered initialize_stimulus_block. Time: 41036
+Presenting stimulus. Time: 41036
+Presentation done. Time: 43249
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1554ms
+Chosen ethnicity is black. Pain: false
+Entered create_stimulus_block. Time: 43249
+Loading bitmap: white female pain: false
+folder index: 6
+Entered initialize_stimulus_block. Time: 43339
+Presenting stimulus. Time: 43339
+Presentation done. Time: 45416
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1016ms
+Chosen ethnicity is latin. Pain: false
+Entered create_stimulus_block. Time: 45416
+Loading bitmap: white female pain: false
+folder index: 23
+Entered initialize_stimulus_block. Time: 45509
+Presenting stimulus. Time: 45509
+Presentation done. Time: 47049
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1219ms
+Chosen ethnicity is black. Pain: false
+Entered create_stimulus_block. Time: 47049
+Loading bitmap: asian female pain: false
+folder index: 25
+Entered initialize_stimulus_block. Time: 47136
+Presenting stimulus. Time: 47136
+Presentation done. Time: 48882
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1155ms
+Chosen ethnicity is asian. Pain: false
+Entered create_stimulus_block. Time: 48882
+Loading bitmap: asian female pain: false
+folder index: 6
+Entered initialize_stimulus_block. Time: 48968
+Presenting stimulus. Time: 48968
+Presentation done. Time: 50649
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1701ms
+Chosen ethnicity is latin. Pain: false
+Entered create_stimulus_block. Time: 50649
+Loading bitmap: latin male pain: false
+folder index: 8
+Entered initialize_stimulus_block. Time: 50737
+Presenting stimulus. Time: 50737
+Presentation done. Time: 52966
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1462ms
+Chosen ethnicity is white. Pain: true
+Entered create_stimulus_block. Time: 52966
+Loading bitmap: black male pain: true
+folder index: 0
+Entered initialize_stimulus_block. Time: 53052
+Presenting stimulus. Time: 53052
+Presentation done. Time: 55049
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1772ms
+Chosen ethnicity is white. Pain: false
+Entered create_stimulus_block. Time: 55049
+Loading bitmap: white female pain: false
+folder index: 16
+Entered initialize_stimulus_block. Time: 55137
+Presenting stimulus. Time: 55137
+Presentation done. Time: 57432
+Stimulus events cleared, bitmaps unloaded
+
+Using delta_time: 1225ms
+Chosen ethnicity is white. Pain: false
+Entered create_stimulus_block. Time: 57432
+Loading bitmap: black male pain: false
+folder index: 9
+Entered initialize_stimulus_block. Time: 57515
+Presenting stimulus. Time: 57515

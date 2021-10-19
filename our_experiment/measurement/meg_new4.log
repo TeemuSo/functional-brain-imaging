@@ -1,0 +1,51 @@
+Scenario - MEG
+Logfile written - 10/08/2021 12:18:54
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Picture	start_experiment	50333	0	1	5167	1	0	5000	other	0
+2	Picture	latin1_pain_false	162332	10840	1	5167	1	10840	5000	other	0
+3	Picture	white1_pain_false	184332	15820	1	5167	1	15820	5000	other	0
+4	Picture	white1_pain_false	205331	14810	1	5167	1	14810	5000	other	0
+5	Picture	latin1_pain_false	230998	19520	1	5167	1	19520	5000	other	0
+6	Picture	white1_pain_false	247664	10570	1	5167	1	10570	5000	other	0
+7	Picture	white1_pain_false	265331	11400	1	5167	1	11400	5000	other	0
+8	Picture	white1_pain_true	291164	19660	1	5167	1	19660	5000	other	0
+9	Picture	question	315997	19610	1	30166	1	19610	30000	other	0
+10	Picture	white1_pain_true	366996	19610	1	5167	1	19610	5000	other	0
+11	Picture	white1_pain_false	392330	19100	1	5167	1	19100	5000	other	0
+12	Picture	white1_pain_false	412829	14260	1	5167	1	14260	5000	other	0
+13	Picture	white1_pain_false	434996	15890	1	5167	1	15890	5000	other	0
+14	Picture	white1_pain_false	452662	11510	1	5167	1	11510	5000	other	0
+15	Picture	asian1_pain_true	471496	12690	1	5167	1	12690	5000	other	0
+16	Picture	white1_pain_false	493662	16030	1	5167	1	16030	5000	other	0
+17	Picture	latin1_pain_false	513995	14110	1	5167	1	14110	5000	other	0
+18	Picture	white1_pain_false	534162	14020	1	5167	1	14020	5000	other	0
+19	Picture	white1_pain_false	555995	15740	1	5167	1	15740	5000	other	0
+20	Picture	white1_pain_false	574828	12690	1	5167	1	12690	5000	other	0
+21	Picture	white1_pain_false	598661	17640	1	5167	1	17640	5000	other	0
+22	Picture	latin1_pain_false	624326	19520	2	5168	2	19520	5000	other	0
+23	Picture	white1_pain_false	645661	15150	1	5167	1	15150	5000	other	0
+24	Picture	asian1_pain_false	662494	10680	1	5167	1	10680	5000	other	0
+25	Picture	white1_pain_false	684327	15560	1	5167	1	15560	5000	other	0
+26	Picture	white1_pain_false	706160	15660	1	5166	1	15660	5000	other	0
+27	Picture	white1_pain_true	726993	14710	1	5167	1	14710	5000	other	0
+28	Picture	latin1_pain_false	749660	16460	1	5167	1	16460	5000	other	0
+29	Picture	asian1_pain_true	770826	15040	1	5167	1	15040	5000	other	0
+30	Picture	white1_pain_false	792826	15870	1	5167	1	15870	5000	other	0
+31	Picture	black1_pain_false	809492	10490	1	5167	1	10490	5000	other	0
+32	Picture	asian1_pain_false	827159	11510	1	5167	1	11510	5000	other	0
+33	Picture	latin1_pain_false	845325	11910	1	5167	1	11910	5000	other	0
+34	Picture	black1_pain_true	866658	15140	1	5167	1	15140	5000	other	0
+35	Picture	asian1_pain_false	888158	15290	1	5167	1	15290	5000	other	0
+36	Picture	white1_pain_false	904658	10420	1	5167	1	10420	5000	other	0
+37	Picture	latin1_pain_false	927825	16880	1	5167	1	16880	5000	other	0
+38	Picture	latin1_pain_true	945824	11750	1	5167	1	11750	5000	other	0
+39	Picture	asian1_pain_false	962158	10130	1	5167	1	10130	5000	other	0
+40	Picture	white1_pain_false	981491	13210	1	5167	1	13210	5000	other	0
+41	Picture	black1_pain_false	999824	12270	1	5167	1	12270	5000	other	0
+42	Picture	latin1_pain_false	1020990	15070	1	5167	1	15070	5000	other	0
+43	Picture	white1_pain_true	1042323	15090	1	5167	1	15090	5000	other	0
+44	Picture	black1_pain_false	1063490	14950	1	5167	1	14950	5000	other	0
+45	Picture	latin1_pain_false	1079823	10190	1	5167	1	10190	5000	other	0
+46	Quit		1101116	15299	NA
